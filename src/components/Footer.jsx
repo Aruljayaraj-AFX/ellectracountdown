@@ -96,7 +96,7 @@ export default function Footer() {
 
             {rewardsClaimed ? (
               <div className="text-green-600 font-semibold text-lg mt-6 text-center">
-                Rewards already claimed. Thank you!
+                Rewards redeemed. Thank you!
               </div>
             ) : (
               <>
